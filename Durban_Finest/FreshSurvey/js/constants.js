@@ -1,4 +1,4 @@
-export const PAYLOAD_URL = 'https://marigameo.github.io/FreshSurvey/data/payload.json'
+export const PAYLOAD_URL = 'https://github.com/Asanda-qwabe/DBN-AI-Avengers/tree/main/Durban_Finest/FreshSurvey/data/payload.json'
 
 export const SURVEYS_ENDPOINT_URL = 'https://60b4b4494ecdc10017481366.mockapi.io/api/v1/surveys'
 

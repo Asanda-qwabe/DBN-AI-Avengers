@@ -2,50 +2,228 @@
     "questions": [
         {
             "type": "rating",
-            "question": "How do you rate the delivery experience?",
+            "question": "Is the board charter aligned with the organization's current stage and structure?",
             "options": [
                 {
-                    "text": "Great",
-                    "points": "10"
+                    "text": "Yes",
+                    "points": 10
                 },
                 {
-                    "text": "Not so Great",
-                    "points": "5"
+                    "text": "Partially",
+                    "points": 5
                 },
                 {
-                    "text": "Awful",
-                    "points": "0"
+                    "text": "No",
+                    "points": 0
                 }
             ]
         },
         {
             "type": "rating",
-            "question": "How do you rate the Freshness of the fruits?",
+            "question": "Is the delegation of authority policy effectively monitored?",
             "options": [
                 {
-                    "text": "Great",
-                    "value": "10"
+                    "text": "Yes",
+                    "points": 10
                 },
                 {
-                    "text": "Not so Great",
-                    "value": "5"
+                    "text": "Partially",
+                    "points": 5
                 },
                 {
-                    "text": "Awful",
-                    "value": "0"
+                    "text": "No",
+                    "points": 0
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "question": "Does the managing director's report effectively communicate status and link to the business plan?",
+            "options": [
+                {
+                    "text": "Yes",
+                    "points": 10
+                },
+                {
+                    "text": "Partially",
+                    "points": 5
+                },
+                {
+                    "text": "No",
+                    "points": 0
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "question": "Are board packs structured effectively for decision-making and accountability?",
+            "options": [
+                {
+                    "text": "Yes",
+                    "points": 10
+                },
+                {
+                    "text": "Partially",
+                    "points": 5
+                },
+                {
+                    "text": "No",
+                    "points": 0
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "question": "Is the board calendar aligned with the enterprise's strategic focus and timing requirements?",
+            "options": [
+                {
+                    "text": "Yes",
+                    "points": 10
+                },
+                {
+                    "text": "Partially",
+                    "points": 5
+                },
+                {
+                    "text": "No",
+                    "points": 0
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "question": "Are all board and applicable committee meeting dates scheduled in directors' diaries and aligned with the calendar?",
+            "options": [
+                {
+                    "text": "Yes",
+                    "points": 10
+                },
+                {
+                    "text": "Partially",
+                    "points": 5
+                },
+                {
+                    "text": "No",
+                    "points": 0
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "question": "Does the organization have an updated strategy defining its purpose and vision?",
+            "options": [
+                {
+                    "text": "Yes",
+                    "points": 10
+                },
+                {
+                    "text": "Partially",
+                    "points": 5
+                },
+                {
+                    "text": "No",
+                    "points": 0
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "question": "Does the board ensure a strategic focus in every meeting addressing key issues proactively?",
+            "options": [
+                {
+                    "text": "Yes",
+                    "points": 10
+                },
+                {
+                    "text": "Partially",
+                    "points": 5
+                },
+                {
+                    "text": "No",
+                    "points": 0
                 }
             ]
         },
         {
             "type": "boolean",
-            "question": "Would you order again?",
+            "question": "Is there clarity regarding the organization's culture, values, and beliefs?",
             "options": [
                 {
-                    "text": "Yes, Definitely",
+                    "text": "Yes",
                     "value": true
                 },
                 {
-                    "text": "Not so Great",
+                    "text": "No",
+                    "value": false
+                }
+            ]
+        },
+        {
+            "type": "boolean",
+            "question": "Do the culture and values demonstrated by the board set an appropriate tone for the organization?",
+            "options": [
+                {
+                    "text": "Yes",
+                    "value": true
+                },
+                {
+                    "text": "No",
+                    "value": false
+                }
+            ]
+        },
+        {
+            "type": "boolean",
+            "question": "Is the board's conduct characterized by trust, respect, candor, professionalism, accountability, diligence, and commitment?",
+            "options": [
+                {
+                    "text": "Yes",
+                    "value": true
+                },
+                {
+                    "text": "No",
+                    "value": false
+                }
+            ]
+        },
+        {
+            "type": "boolean",
+            "question": "Has the organization developed a culture of accountability for performance?",
+            "options": [
+                {
+                    "text": "Yes",
+                    "value": true
+                },
+                {
+                    "text": "No",
+                    "value": false
+                }
+            ]
+        },
+        {
+            "type": "boolean",
+            "question": "If applicable, have the board committees approved terms of reference?",
+            "options": [
+                {
+                    "text": "Yes",
+                    "value": true
+                },
+                {
+                    "text": "No",
+                    "value": false
+                }
+            ]
+        },
+        {
+            "type": "boolean",
+            "question": "If applicable, do the board committees have an agreed work plan and make progress against it?",
+            "options": [
+                {
+                    "text": "Yes",
+                    "value": true
+                },
+                {
+                    "text": "No",
                     "value": false
                 }
             ]
