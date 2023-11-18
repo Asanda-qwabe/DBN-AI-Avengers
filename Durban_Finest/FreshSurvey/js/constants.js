@@ -1,6 +1,6 @@
 export const PAYLOAD_URL = 'https://github.com/Asanda-qwabe/DBN-AI-Avengers/tree/main/Durban_Finest/FreshSurvey/data/payload.json'
 
-export const SURVEYS_ENDPOINT_URL = 'https://60b4b4494ecdc10017481366.mockapi.io/api/v1/surveys'
+export const SURVEYS_ENDPOINT_URL = 'https://6558360a9c0b643cb2d6e34d.mockapi.io/api/v2/surveys'
 
 export const SUCCESS_MESSAGE = {
     text: 'Submitted successfully!',
